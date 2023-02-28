@@ -1,38 +1,38 @@
-.main{
-    width: 350px;
-    height: 540px;
-    background-color: rgba(178, 38, 209, 0.413);
-    margin: 5rem 2rem 5rem;
-    display: inline-block;
-    /* gap: 1rem; */
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+.main {
+  width: 350px;
+  height: 540px;
+  background-color: rgba(178, 38, 209, 0.413);
+  margin: 5rem 2rem 5rem;
+  display: inline-block;
+  /* gap: 1rem; */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-.card{
-    width: 300px;
-    height: 500px;
-    /* background-color: cadetblue; */
-    margin: 1rem auto;
-    text-align: center;
+.card {
+  width: 300px;
+  height: 500px;
+  /* background-color: cadetblue; */
+  margin: 1rem auto;
+  text-align: center;
 }
-.mainİmg{
-    width: 200px;
-    height: 200px;
+.mainİmg {
+  width: 200px;
+  height: 200px;
 }
-h4{
-    margin: 0.5rem;
+h4 {
+  margin: 0.5rem;
 }
-.desc{
-    width: 290px;
-    height: 200px;
-    padding: 5px;
-    /* margin: auto; */
-    /* background-color: bisque; */
+.desc {
+  width: 290px;
+  height: 200px;
+  padding: 5px;
+  /* margin: auto; */
+  /* background-color: bisque; */
 }
-.btn{
-    padding: 0.8rem;
-    border-radius: 10px;
-    font-size: 15px;
-    background-color: blueviolet;
-    color: white;
-    font-weight: 600;
+.btn {
+  padding: 0.8rem;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: blueviolet;
+  color: white;
+  font-weight: 600;
 }

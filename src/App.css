@@ -1,15 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Yeon+Sung&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&family=Yeon+Sung&display=swap");
 
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Yeon Sung', cursive;    
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Yeon Sung", cursive;
 }
-body{
-    background-color: #282c34;
-    color: white;
-    
+body {
+  background-color: #282c34;
+  color: white;
 }
-.App{
-    text-align: center;
+.App {
+  text-align: center;
 }
